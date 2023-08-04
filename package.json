@@ -1,0 +1,8 @@
+{
+  "name": "subtree-example-parent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BBAKJunhyeong/subtree-example-parent.git",
+  "author": "BBAKJunHyeong <jay0913@hutom.co.kr>",
+  "license": "MIT"
+}
